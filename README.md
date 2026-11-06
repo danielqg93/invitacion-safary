@@ -25,7 +25,7 @@ Fuentes y licencias en `CREDITOS.md`.
 
 ## 3. Invitados e itinerario
 
-- `db/invitados.json` → link personal: `https://danielqg93.github.io/invitacion-safari/#/CODIGO`
+- `db/invitados.json` → link personal: `https://danielqg93.github.io/invitacion-safary/#/CODIGO`
 - `db/itinerario.json` → cada parada admite `"animal"`: `leon`, `elefante`, `jirafa`, `cebra` o `mono`.
 
 ## 4. Confirmaciones de asistencia
@@ -38,7 +38,7 @@ Fuentes y licencias en `CREDITOS.md`.
 
 ```bash
 bun install
-bun run dev      # http://localhost:5173/invitacion-safari/
+bun run dev      # http://localhost:5173/invitacion-safary/
 bun run lint
 bun run build
 ```
