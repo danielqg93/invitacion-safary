@@ -1,0 +1,15 @@
+IMÁGENES OPCIONALES (public/img/)
+=================================
+La invitación ya incluye animalitos ilustrados (SVG propios en src/animales.tsx),
+así que funciona sin ninguna imagen. Puedes agregar:
+
+  foto-cumple.jpg   Foto del cumpleañero/a. Va en el marco redondo de la intro
+                    (si falta, se muestra el león) y de fondo en
+                    "Captura cada momento salvaje".
+                    Recomendado: cuadrada o vertical, mínimo 800 px.
+
+  galeria/*.jpg     Fotos para las polaroids. Después de copiarlas, agrega sus
+                    nombres en src/config.ts -> galeria.fotos (ej. ["1.jpg"]).
+                    Si la lista está vacía, la sección no aparece.
+
+Si quieres stickers de animales en acuarela en lugar de los SVG, ver CREDITOS.md.

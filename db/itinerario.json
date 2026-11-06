@@ -1,0 +1,10 @@
+[
+    { "hour": "03:00 pm", "event": "Llegada al campamento", "animal": "jirafa" },
+    { "hour": "03:30 pm", "event": "Taller de pequeños exploradores", "animal": "mono" },
+    { "hour": "04:00 pm", "event": "Desfile de animales", "animal": "cebra" },
+    { "hour": "04:30 pm", "event": "Show en la selva", "animal": "elefante" },
+    { "hour": "05:15 pm", "event": "Snacks del oasis", "animal": "jirafa" },
+    { "hour": "05:45 pm", "event": "La hora salvaje", "animal": "leon" },
+    { "hour": "06:15 pm", "event": "Piñata en la selva", "animal": "mono" },
+    { "hour": "06:30 pm", "event": "Torta y canción alrededor de la fogata", "animal": "leon" }
+]
